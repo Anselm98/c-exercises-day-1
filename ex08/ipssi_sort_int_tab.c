@@ -17,7 +17,7 @@ void	ipssi_sort_int_tab(int *tab, int size)
 				tab[j + 1] = temp;
 			}
 			j++;
-		}
+		}	
 		i++;
 	}
 }
